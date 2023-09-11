@@ -1,6 +1,8 @@
+# Atlan SQL Query Playground
+The project is live at : https://hiteshkanwar100.github.io/Atlan/
 # Project Overview
 The Atlan SQL Query Playground is a web-based tool designed to make SQL query execution and exploration a breeze. It offers a user-friendly interface for entering, executing, and saving SQL queries while visualizing the query results.
-This project is a skill test task for the Frontend role at Atlan. You can access the live version of this project here.
+This project is a skill test task for the Frontend role at Atlan. You can access the live version of this project here : https://hiteshkanwar100.github.io/Atlan/
 
 ### Key Features
 #### Query Execution and Visualization
