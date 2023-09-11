@@ -37,6 +37,17 @@ This project is a skill test task for the Frontend role at Atlan. You can access
 * Axios: Axios is used for making HTTP requests, specifically to fetch data from a remote CSV file.
 #### Icons
 * React Icons: The React Icons library is integrated to provide visually informative elements that enhance the user interface.
+## Performance
+
+Our project has been rigorously tested for performance using Google Lighthouse, and we are proud to share the following scores:
+
+- Performance: 98
+- Accessibility: 86
+- Best Practices: 100
+- SEO: 100
+
+We continuously strive to ensure that our application loads quickly and efficiently, making it accessible to a wide range of users while adhering to best practices and SEO standards.
+
 ## How to install this ReactJS project?
 
 1. Fork this repository, It will make a copy of this repository in your github account.
