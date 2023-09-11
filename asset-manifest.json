@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Atlan/static/css/main.35725c97.css",
+    "main.js": "/Atlan/static/js/main.f903a4a3.js",
+    "static/media/atlan-blue.svg": "/Atlan/static/media/atlan-blue.004a89666be7b77cb3dcfb32fbf92156.svg",
+    "index.html": "/Atlan/index.html",
+    "main.35725c97.css.map": "/Atlan/static/css/main.35725c97.css.map",
+    "main.f903a4a3.js.map": "/Atlan/static/js/main.f903a4a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35725c97.css",
+    "static/js/main.f903a4a3.js"
+  ]
+}
